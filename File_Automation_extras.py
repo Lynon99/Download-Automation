@@ -10,11 +10,6 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 
-source_dir = "/users//lynonsmith//downloads"
-des_dir_pdf = "/users//lynonsmith//downloads//PDF"
-dest_dir_image = "/users//lynonsmith//pictures"
-dest_dir_documents = "/users//lynonsmith//downloads//Docs"
-dest_dir_video = "/users//lynonsmith//videos"
 
 
 
