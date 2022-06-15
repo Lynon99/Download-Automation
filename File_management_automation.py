@@ -2,12 +2,12 @@ from importlib.resources import path
 from operator import truediv
 import os, shutil
 
-source_dir = "C:/Users/lynonsmith/Downloads"
-dest_dir_pdf = "C:/Users/lynonsmith/Downloads/PDF"
-dest_dir_image = "C:/Users//lynonsmith//pictures"
-dest_dir_documents = "C:/Users/lynonsmith/downloads/Docs"
-dest_dir_video = "C:/Users/lynonsmith/videos"
-dest_dir_archive = "C:/Users/lynonsmith/downloads/Archive"
+source_dir = "C:/Users/name/Downloads"
+dest_dir_pdf = "C:/Users/name/Downloads/PDF"
+dest_dir_image = "C:/Users//name//pictures"
+dest_dir_documents = "C:/Users/name/downloads/Docs"
+dest_dir_video = "C:/Users/name/videos"
+dest_dir_archive = "C:/Users/name/downloads/Archive"
 
 while True:
         
